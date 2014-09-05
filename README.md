@@ -2,5 +2,5 @@ MCOCore
 =======
 
 MCOrigins library plugin
-Library for stuff/n
+Library for stuff\n
 -author minecreatr
